@@ -23,3 +23,8 @@ created_at: "2025-06-28"
 
 ![](/images/sch_1.png)
 ![](/images/1.png)
+
+>Before I thought to use 2 LEDs but that wasn't like matching withthe designs I had in my mind, So now im gonna use 3 LEDs.
+
+![](/images/sch_2.png)
+![](/images/2.png)
