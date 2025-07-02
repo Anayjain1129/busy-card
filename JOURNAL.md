@@ -39,5 +39,6 @@ created_at: "2025-06-28"
 
 >I have like made this in midnight cause I wanted to join show N' tell call, it was reallly awesome.
 >made it in midnight I think it is awesome to make something in midnight the level of motivation is seriuosly different 
+>It took me 1.5hours to make find from where I can buy the parts cause it's India.(making BOM)
 
 **Time Spent: 5hrs**
