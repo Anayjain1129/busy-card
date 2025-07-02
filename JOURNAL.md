@@ -5,7 +5,7 @@ description: "It's s Business Card"
 created_at: "2025-06-28"
 ---
 
-**Total time spent so far: 5hrs**
+**Total time spent so far: 10hrs**
 
 ## 28th June: Research
 > I was thinking to not to mkae it something like a business card tbut to be like something which makes future me to remind me that I had done something like Highway
@@ -27,3 +27,17 @@ created_at: "2025-06-28"
 >At the end of day I collected some really nice art for it!!
 
 **Time Spent: 3hrs**
+
+## 3rd July: Done by PCB
+>Done by the whole PCB I dont think I will be considering it as a business card I'm gonna consider it as a memory of Highway :heart:
+>Add some silklayer I think it looks awesome.
+>added some sticker drawing of highway wrote my name, and thanks giving note to Acon and Alex
+
+![](/images/PCB.png)
+![](/images/3Dfront.png)
+![](/images/3Dback.png)
+
+>I have like made this in midnight cause I wanted to join show N' tell call, it was reallly awesome.
+>made it in midnight I think it is awesome to make something in midnight the level of motivation is seriuosly different 
+
+**Time Spent: 5hrs**
