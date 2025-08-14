@@ -5,6 +5,8 @@ This is not jsut a normal but it is a card which is gonna help me to remember hi
 ![](/images/3Dfront.png)
 ![](/images/3Dback.png)
 
+![image](images/5.jpeg)
+![image](images/1.jpeg)
 
 # Sch & PCB
 This time I had to use EasyEDA I think it wasn't worst experience , I wasn't able to use KiCad because I had trouble uploading the librabries and the it wasn't detecting the footprints That I downloaded. So I decided to go with EaseEDA
