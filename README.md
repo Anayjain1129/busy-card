@@ -23,7 +23,8 @@ This time I had to use EasyEDA I think it wasn't worst experience , I wasn't abl
 # Back
 ![](/images/3Dback.png)
 
-
+# Youtube link
+https://youtube.com/shorts/mWCdzmNfaxQ?si=8nd1UKdya1wmm3Lf
 # BOM
 |Part Name|Quantity|Cost|Link|
 |-|-|-|-|
