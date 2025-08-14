@@ -42,3 +42,12 @@ created_at: "2025-06-28"
 >It took me 1.5hours to make find from where I can buy the parts cause it's India.(making BOM)
 
 **Time Spent: 5hrs**
+
+## 31th June: Building
+>alr so I checked the prices for it and then I thought that i'll go with PCBA cause it was more cheap rather then buying parts seperatly and today I received em' here are the img of final project.
+
+![image](images/1.jpeg)
+![image](images/2.jpeg)
+![image](images/3.jpeg)
+![image](images/4.jpeg)
+![image](images/5.jpeg)
